@@ -1,3 +1,3 @@
-Tecnologias a serem usada:
+# Tecnologias a serem usada:
 * Cucumber
 * Cypress
